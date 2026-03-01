@@ -1,4 +1,4 @@
-# end-to-end-madical-chatbot-
+# end-to-end-madical-chatbot
 
 # how to run?
 ### STEPS:
